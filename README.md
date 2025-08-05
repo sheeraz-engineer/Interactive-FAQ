@@ -66,4 +66,4 @@ Frontend Web Developer
 ⭐️ Don't forget to star this repo if you found it helpful!
 ---
 
-> Made with ❤️ for internship task submission.
+> Made with ❤️ 
