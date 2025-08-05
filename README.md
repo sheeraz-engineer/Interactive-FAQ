@@ -3,6 +3,10 @@
 
 This is a simple and professional **Interactive FAQ (Frequently Asked Questions)** page built as part of the Web Developer Internship – Task 21.
 
+## 🌐 Live Demo
+[View Live Site](https://sheeraz-engineer.github.io/Interactive-FAQ/)
+
+
 ## 🚀 Project Overview
 
 This project demonstrates your skills in:
@@ -23,22 +27,19 @@ This project demonstrates your skills in:
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3
-- JavaScript (Vanilla)
+- CSS
+- JavaScript
 
 ## 📁 File Structure
 
 ```
-📁 Interactive FAQ Page
+📁 Interactive-FAQ/
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
 ```
 
-## 📸 Preview
-
-> Add a screenshot of the page here (optional)
+#
 
 ## 📦 How to Use
 
@@ -46,14 +47,23 @@ This project demonstrates your skills in:
 2. Open `index.html` in any browser.
 3. Explore the interactive FAQ section.
 
-## ✍️ Author
+## 📌 License
 
-- Sheeraz Ahmed (Intern)
+This project is open-source and available under the [MIT License](LICENSE).
 
-## 📜 License
+---
 
-This project is licensed under the MIT License.
+## 👨‍💻 Author
+**Sheeraz Ahmed**  
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer)
 
+
+
+
+---
+
+⭐️ Don't forget to star this repo if you found it helpful!
 ---
 
 > Made with ❤️ for internship task submission.
